@@ -4,21 +4,21 @@
 
 There are many ways that you can contribute to Moodle, not just through development. See our [community contribution guide][2] for some of the many ways that you can help.
 
-## Github
+## GitHub
 
 > [!NOTE]
-> Please do not open pull requests via Github.
+> Please do not open pull requests via GitHub.
 
 All issues should be reported via, and patched provided to the [Moodle Tracker][3].
 
-The Moodle [Github][4] repository is a clone of the official Moodle repository, whcih can be found at https://git.moodle.org.
+The Moodle [GitHub][4] repository is a clone of the official Moodle repository, whcih can be found at https://git.moodle.org.
 
 ## Moodle core bug fixes and new features
 
 Over the years, Moodle has developed a mature process for reporting, reviewing, and accepting patches. This is fully documented in our [documentation on  development processes][6], but in summary:
 
 - Every bug fix or new feature must have a tracker issue.
-- You publish the branch implementing the fix or new feature in your public clone of the moodle.git repository (typically on Github).
+- You publish the branch implementing the fix or new feature in your public clone of the moodle.git repository (typically on GitHub).
 - Your patch is peer-reviewed, discussed, integrated, tested and then released as a part of one of our weekly releases.
 - New features are developed on the `main` branch. Bug fixes are also backported to currently supported maintenance (stable) branches.
 
